@@ -1,0 +1,89 @@
+body {
+  background-color: #E35336;
+  background-attachment: fixed;
+  background-size: 100%;
+  opacity: 10%%;
+  text-align: center
+
+}
+
+#Apresentação {
+  width: 500px;
+  height: 900px;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 150px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  font-family: georgia;
+}
+
+#Melhoresmomentos {
+  width: 500px;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 150px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: georgia;
+}
+
+#Porquecontinuação {
+  width: 500px;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 150px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: georgia;
+}
+
+  
+
+    div.scrollmenu {
+      background-color:#F7AE62;
+      overflow: auto;
+      white-space: nowrap;
+      text-align: center;
+
+    }
+
+    div.scrollmenu a {
+      display: inline-block;
+      color: #6699CC;
+      text-align: center;
+      padding: 4px;
+      text-decoration: none;
+    }
+
+    div.scrollmenu a:hover {
+    background-color: #777;
+    font-family: georgia;
+    }
+
+  #Apresentação {
+    color:  #0e2cc4;
+    text-align: center;
+    background-color: #FFE1B2;
+  }
+
+  #Melhoresmomentos {
+    color: #0e2cc4;
+    text-align: center;
+    background-color: #FFE1B2;
+  }
+
+  #Porquecontinuação {
+    color: #0e2cc4;
+    text-align: center;
+    background-color: #FFE1B2;
+
+  }
+
